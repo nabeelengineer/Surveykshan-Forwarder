@@ -44,7 +44,7 @@ class DataForwarder {
   }
 
   start() {
-    console.log('🚀 Surveykshan Forwarder started (15min intervals)');
+    console.log('🚀 Surveykshan Forwarder started (12min intervals)');
 
     // Run immediately on start
     this.forwardAllDevices();

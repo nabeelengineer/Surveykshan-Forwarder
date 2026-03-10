@@ -22,7 +22,7 @@
     }
   },
   "settings": {
-    "fetchInterval": 900000,
+    "fetchInterval": 720000,
     "retryAttempts": 3,
     "timeout": 10000
   }
