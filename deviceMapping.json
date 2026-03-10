@@ -1,0 +1,29 @@
+{
+  "deviceMapping": {
+    "ENE04807": {
+      "surveykshanId": "M03032",
+      "name": "Device 2",
+      "enabled": true
+    },
+    "ENE04806": {
+      "surveykshanId": "M03033",
+      "name": "Device 3",
+      "enabled": true
+    },
+    "ENE00407": {
+      "surveykshanId": "M20106",
+      "name": "Device 1",
+      "enabled": true
+    },
+    "ENE06181": {
+      "surveykshanId": "DLE049",
+      "name": "Device 4",
+      "enabled": true
+    }
+  },
+  "settings": {
+    "fetchInterval": 900000,
+    "retryAttempts": 3,
+    "timeout": 10000
+  }
+}
